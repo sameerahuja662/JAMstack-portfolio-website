@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sameer Ahuja
-    subtitle: 'Learn '
+    subtitle: Learn more about me here and see my projects
     actions:
       - label: Learn More
         url: /features
