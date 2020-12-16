@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Projects
     features:
-      - title: Feature 1
+      - title: To
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
