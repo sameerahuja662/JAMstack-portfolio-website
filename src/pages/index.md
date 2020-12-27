@@ -54,7 +54,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/Screen Shot 2020-12-27 at 5.08.35 PM.png
+        image: images/feature.svg
         image_position: right
         actions:
           - label: Learn More
