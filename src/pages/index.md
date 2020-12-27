@@ -71,7 +71,12 @@ sections:
           Beautiful designs made by Olia Gozha.
         align: left
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
         type: feature
         image: images/clima_weather_screens.jpg
   - type: blog_feed_section
