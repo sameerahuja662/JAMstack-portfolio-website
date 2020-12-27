@@ -60,7 +60,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: Clima-Flutter
         content: >-
           ## Lorem ipsum
 
