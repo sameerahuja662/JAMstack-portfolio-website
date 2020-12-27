@@ -31,7 +31,7 @@ sections:
           fringilla, fringilla.
         align: left
         image: images/maroon-zebra.jpg
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
