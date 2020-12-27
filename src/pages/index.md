@@ -73,6 +73,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/clima_weather_screens.jpg
   - type: blog_feed_section
     title: Personal Blog
     show_recent: true
