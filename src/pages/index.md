@@ -62,16 +62,13 @@ sections:
             style: secondary
       - title: Clima-Flutter
         content: >-
-          ## Lorem ipsum
+          A Beautiful yet pleasing Weather App made using Flutter Framework to
+          create a cross platform app. It utilizes Open Weather RESt API for
+          getting weather data based on device's location or city name taken
+          from user input.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Beautiful designs made by Olia Gozha.
         align: left
         image_position: left
         actions: []
