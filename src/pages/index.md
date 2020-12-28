@@ -76,7 +76,7 @@ sections:
 
           Supports BTC, ETH and LTC prices into all major fiat currencies.
         align: left
-        image: images/feature.svg
+        image: images/Crypto Coins Screens.jpg
         image_position: left
         actions:
           - label: Learn More
