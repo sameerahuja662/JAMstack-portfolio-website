@@ -103,7 +103,7 @@ sections:
       Like my work, looking to hire me or just have some feedback for any of the
       projects ? Leave a message and i'll get back to you ASAP
     actions:
-      - label: Learn More
+      - label: Contact Me
         url: /features
         style: primary
     has_background: true
