@@ -29,8 +29,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "images/gordon-norman.jpg"
+        ]
     },
     "footer": {
         "has_nav": true,
