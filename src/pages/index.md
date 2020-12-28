@@ -82,7 +82,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: B
         content: >-
           ## Lorem ipsum
 
