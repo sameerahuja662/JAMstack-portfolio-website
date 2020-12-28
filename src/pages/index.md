@@ -104,7 +104,7 @@ sections:
       projects ? Leave a message and i'll get back to you ASAP
     actions:
       - label: Contact Me
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
