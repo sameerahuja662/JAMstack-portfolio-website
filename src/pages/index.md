@@ -26,9 +26,9 @@ sections:
     features:
       - title: To-Doey Flutter
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          A Flutter App that saves all your tasks and notes for you. Uses
+          Flutter Provider Package to manage State and handle events when state
+          changes.
         align: left
         image: images/ToDoey_Screens.jpg
         image_position: right
