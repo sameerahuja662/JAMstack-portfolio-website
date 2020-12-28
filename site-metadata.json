@@ -22,7 +22,7 @@
                 "type": "action"
             },
             {
-                "label": "Contact",
+                "label": "Contact Me",
                 "url": "/contact",
                 "style": "primary"
             }
