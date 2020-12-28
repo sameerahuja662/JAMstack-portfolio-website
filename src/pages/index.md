@@ -74,7 +74,7 @@ sections:
           ante.
         align: left
         image: images/feature.svg
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /features
