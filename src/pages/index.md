@@ -68,10 +68,13 @@ sections:
         type: feature
         image: images/clima_weather_screens.jpg
       - title: Bitcoin Ticker
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          A Crypto Currency price checking app. Helps keep an eye on your crypto
+          investments on the go.
+
+          Pulls in Exchange rate data from Coin Api.
+
+          Supports BTC, ETH and LTC prices into all major fiat currencies.
         align: left
         image: images/feature.svg
         image_position: left
