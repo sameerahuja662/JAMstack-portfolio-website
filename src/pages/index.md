@@ -82,7 +82,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: B
+      - title: BMI-Calculator
         content: >-
           ## Lorem ipsum
 
