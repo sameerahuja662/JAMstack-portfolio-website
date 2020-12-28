@@ -67,7 +67,7 @@ sections:
             type: action
         type: feature
         image: images/clima_weather_screens.jpg
-      - title: Bitcoin Ticker
+      - title: Crypto Coins
         content: >
           A Crypto Currency price checking app. Helps keep an eye on your crypto
           investments on the go.
