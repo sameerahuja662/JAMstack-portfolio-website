@@ -48,18 +48,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Bitcoin Ticker
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image: images/feature.svg
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: Clima-Flutter
         content: >-
           A Beautiful yet pleasing Weather App made using Flutter Framework to
@@ -79,6 +67,18 @@ sections:
             type: action
         type: feature
         image: images/clima_weather_screens.jpg
+      - title: Bitcoin Ticker
+        content: >-
+          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
+          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
+          ante.
+        align: left
+        image: images/feature.svg
+        image_position: right
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
   - type: blog_feed_section
     title: Personal Blog
     show_recent: true
