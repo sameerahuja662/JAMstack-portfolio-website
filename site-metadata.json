@@ -15,16 +15,16 @@
                 "style": "link"
             },
             {
-                "label": "Contact Me",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "Download Resume",
                 "url": "lorem-ipsum",
                 "style": "secondary",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact Me",
+                "url": "/contact",
+                "style": "primary"
             }
         ]
     },
