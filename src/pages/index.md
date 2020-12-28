@@ -101,7 +101,7 @@ sections:
     title: Get in Touch
     subtitle: >-
       Like my work, looking to hire me or just have some feedback for any of the
-      projects ? Email me today
+      projects ? Email me today and i'll 
     actions:
       - label: Learn More
         url: /features
