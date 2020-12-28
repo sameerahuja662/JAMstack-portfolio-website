@@ -84,16 +84,11 @@ sections:
             style: secondary
       - title: BMI-Calculator
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Body Mass Index Calculator inspired by the beautiful designs made by
+          [Ruben
+          Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It
+          is a multi screen Flutter app with simple functionality but full-on
+          custom styling. 
         align: left
         image_position: left
         actions: []
