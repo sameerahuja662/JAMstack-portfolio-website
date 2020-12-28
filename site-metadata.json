@@ -15,7 +15,7 @@
                 "style": "link"
             },
             {
-                "label": "Download Resume",
+                "label": "Get Resume",
                 "url": "lorem-ipsum",
                 "style": "secondary",
                 "new_window": false,
