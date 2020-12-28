@@ -99,7 +99,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Get in Touch
-    subtitle: 'Like my work, looking to hire me'
+    subtitle: 'Like my work, looking to hire me or just'
     actions:
       - label: Learn More
         url: /features
