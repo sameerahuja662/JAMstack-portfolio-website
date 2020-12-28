@@ -58,7 +58,7 @@ sections:
 
           Beautiful designs made by Olia Gozha.
         align: left
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: lorem-ipsum
