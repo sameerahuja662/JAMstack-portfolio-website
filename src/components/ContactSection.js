@@ -20,16 +20,13 @@ export default class ContactSection extends React.Component {
                     <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Your email" required />
                   </div>
                   <div className="form-group">
-                    <label id="subject-label" htmlFor="subject">Subject</label>
-                    <input aria-labelledby="subject-label" type="text" name="email" id="subject" placeholder="Subject" required />
-                  </div>
-                  <div className="form-group">
                     <label htmlFor="subject">Subject</label>
                     <div className="form-select-wrap">
                       <select name="subject" id="subject">
                         <option value="">Please select</option>
-                        <option value="Business Inquiries">Business Inquiries</option>
+                        <option value="Job/business Inquiries">Job/Business Inquiries</option>
                         <option value="Sponsorship">Partnerships</option>
+                        <option value="Feedback">Feedback</option>
                         <option value="Other">Other</option>
                       </select>
                     </div>
