@@ -99,7 +99,9 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Get in Touch
-    subtitle: 'Like my work, looking to hire me or just'
+    subtitle: >-
+      Like my work, looking to hire me or just have some feedback for any of the
+      projects
     actions:
       - label: Learn More
         url: /features
