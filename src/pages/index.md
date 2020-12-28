@@ -99,9 +99,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Get in Touch
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Like my work
     actions:
       - label: Learn More
         url: /features
