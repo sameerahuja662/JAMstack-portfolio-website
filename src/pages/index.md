@@ -92,7 +92,7 @@ sections:
         actions:
           - label: Learn More
             url: lorem-ipsum
-            style: link
+            style: secondary
             new_window: false
             type: action
         type: feature
