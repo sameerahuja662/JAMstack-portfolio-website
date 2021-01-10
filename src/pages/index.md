@@ -62,7 +62,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: ''
+            url: 'https://github.com/sameerahuja662/Clima-Flutter'
             style: secondary
             new_window: false
             type: action
