@@ -94,10 +94,6 @@ sections:
         image_position: left
         actions: []
         type: feature
-  - type: blog_feed_section
-    title: Personal Blog
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: Get in Touch
     subtitle: >-
