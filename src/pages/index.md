@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sameer Ahuja
-    subtitle: Learn more about me here and see my projects below
+    subtitle: Learn more about me and see my projects below
     actions:
       - label: Contact Me
         url: /contact
