@@ -88,7 +88,7 @@ sections:
           A Quiz Game app built using Kotlin for android. Showcases a beautiful
           UI and a seamless UX.
         align: left
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: images/Kotlin_Quiz_App_Screens.jpg
