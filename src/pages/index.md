@@ -91,6 +91,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/Kotlin_Quiz_App_Screens.jpg
   - type: cta_section
     title: Get in Touch
     subtitle: >-
