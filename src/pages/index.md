@@ -34,7 +34,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://github.com/sameerahuja662/todoey_flutter'
             style: secondary
       - title: Flash Chat
         content: >-
