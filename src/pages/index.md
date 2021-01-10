@@ -34,7 +34,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://github.com/sameerahuja662/todoey_flutter'
             style: secondary
       - title: Flash Chat
         content: >-
@@ -47,7 +47,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://github.com/sameerahuja662/flash-chat-flutter'
             style: secondary
       - title: Clima-Flutter
         content: >-
@@ -62,12 +62,26 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: 'https://github.com/sameerahuja662/Clima-Flutter'
             style: secondary
             new_window: false
             type: action
         type: feature
         image: images/clima_weather_screens.jpg
+      - title: Kotlin Quiz App
+        content: >-
+          A Quiz Game app built using Kotlin for android. Showcases a beautiful
+          UI and a seamless UX.
+        align: left
+        image_position: left
+        actions:
+          - label: Learn More
+            url: 'https://github.com/sameerahuja662/KotlinQuizApp'
+            style: secondary
+            new_window: false
+            type: action
+        type: feature
+        image: images/Kotlin_Quiz_App_Screens.jpg
       - title: Crypto Coins
         content: >
           A Crypto Currency price checking app. Helps keep an eye on your crypto
@@ -78,19 +92,12 @@ sections:
           Supports BTC, ETH and LTC prices into all major fiat currencies.
         align: left
         image: images/Crypto Coins Screens.jpg
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: 'https://github.com/sameerahuja662/bitcoin-ticker-flutter'
             style: secondary
-      - title: Kotlin Quiz App
-        content: >-
-          A Quiz Game app built using Kotlin for android. Showcases a beautiful
-          UI and a seamless UX.
-        align: left
-        image_position: left
-        actions: []
-        type: feature
+      - {}
   - type: cta_section
     title: Get in Touch
     subtitle: >-
