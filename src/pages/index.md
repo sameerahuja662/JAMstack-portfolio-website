@@ -97,6 +97,22 @@ sections:
             type: action
         type: feature
         image: images/Kotlin_Quiz_App_Screens.jpg
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_position: left
+        actions: []
+        type: feature
   - type: cta_section
     title: Get in Touch
     subtitle: >-
