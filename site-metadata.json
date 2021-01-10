@@ -5,12 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Projects",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "About Me",
                 "url": "/about",
                 "style": "link"
             },
