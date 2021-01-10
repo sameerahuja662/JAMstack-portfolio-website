@@ -89,7 +89,12 @@ sections:
           UI and a seamless UX.
         align: left
         image_position: right
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
         type: feature
         image: images/Kotlin_Quiz_App_Screens.jpg
   - type: cta_section
