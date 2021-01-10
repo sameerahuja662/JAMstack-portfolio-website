@@ -83,7 +83,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: BMI-Calculator
+      - title: Kotlin Quiz App
         content: >-
           Body Mass Index Calculator inspired by the beautiful designs made by
           [Ruben
