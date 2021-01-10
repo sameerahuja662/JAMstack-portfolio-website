@@ -62,7 +62,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: ''
             style: secondary
             new_window: false
             type: action
