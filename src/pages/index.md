@@ -85,11 +85,8 @@ sections:
             style: secondary
       - title: Kotlin Quiz App
         content: >-
-          Body Mass Index Calculator inspired by the beautiful designs made by
-          [Ruben
-          Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It
-          is a multi screen Flutter app with simple functionality but full-on
-          custom styling. 
+          A Quiz Game app built using Kotlin for android. Showcases a beautiful
+          UI and a seamless UX.
         align: left
         image_position: left
         actions: []
