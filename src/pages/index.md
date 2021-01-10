@@ -38,9 +38,10 @@ sections:
             style: secondary
       - title: Flash Chat
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          A modern messaging app where users can sign up and log in to chat.
+          Incorporates Firebase Cloud Firestore as well as the Firebase
+          authentication package to equip the app with a cloud-based NoSQL
+          database and secure authentication methods.
         align: left
         image: images/Flash Chat Screens.jpg
         image_position: left
@@ -82,21 +83,14 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: BMI-Calculator
+      - title: Kotlin Quiz App
         content: >-
-          Body Mass Index Calculator inspired by the beautiful designs made by
-          [Ruben
-          Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It
-          is a multi screen Flutter app with simple functionality but full-on
-          custom styling. 
+          A Quiz Game app built using Kotlin for android. Showcases a beautiful
+          UI and a seamless UX.
         align: left
         image_position: left
         actions: []
         type: feature
-  - type: blog_feed_section
-    title: Personal Blog
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: Get in Touch
     subtitle: >-
