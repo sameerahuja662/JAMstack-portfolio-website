@@ -47,7 +47,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /features
+            url: ''
             style: secondary
       - title: Clima-Flutter
         content: >-
