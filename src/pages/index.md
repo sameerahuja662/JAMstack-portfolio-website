@@ -95,7 +95,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: 'https://github.com/sameerahuja662/'
+            url: 'https://github.com/sameerahuja662/bitcoin-ticker-flutter'
             style: secondary
       - {}
   - type: cta_section
