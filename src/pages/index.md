@@ -38,9 +38,10 @@ sections:
             style: secondary
       - title: Flash Chat
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          A modern messaging app where users can sign up and log in to chat.
+          Incorporates Firebase Cloud Firestore as well as the Firebase
+          authentication package to equip the app with a cloud-based NoSQL
+          database and secure authentication methods.
         align: left
         image: images/Flash Chat Screens.jpg
         image_position: left
