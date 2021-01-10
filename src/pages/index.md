@@ -47,7 +47,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: ''
+            url: 'https://github.com/sameerahuja662/flash-chat-flutter'
             style: secondary
       - title: Clima-Flutter
         content: >-
