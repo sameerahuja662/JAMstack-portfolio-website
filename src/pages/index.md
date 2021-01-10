@@ -5,9 +5,6 @@ sections:
     title: Sameer Ahuja
     subtitle: Learn more about me here and see my projects below
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Me
         url: /contact
         style: secondary
