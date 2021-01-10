@@ -97,7 +97,7 @@ sections:
             type: action
         type: feature
         image: images/Kotlin_Quiz_App_Screens.jpg
-      - title: lorem-ipsum
+      - title: Bitcoin Ticker
         content: >-
           ## Lorem ipsum
 
