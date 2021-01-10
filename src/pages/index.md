@@ -90,7 +90,7 @@ sections:
         align: left
         image_position: right
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: link
             new_window: false
